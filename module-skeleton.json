@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-vat-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-vat",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_vat_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/vat.md",
+  "presentationPlan": "projects/accounting/flutter/vat.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
